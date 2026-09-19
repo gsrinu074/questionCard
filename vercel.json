@@ -1,0 +1,5 @@
+{
+  "installCommand": "cd jobProject && npm install",
+  "buildCommand": "cd jobProject && npm run build",
+  "outputDirectory": "jobProject/dist"
+}
